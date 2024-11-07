@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adelmostafa2008
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning c# .net framework
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in : software development
+- 🌱 I’m currently learning : c# .net framework
 - 📫 How to reach me : adel.0523035@gmail.com
 - 😄 Pronouns: i am a male , i dont belive in this type of shit
 - ⚡ Fun fact: idk what to say

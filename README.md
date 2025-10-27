@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Adel Mostafa Saber Mohamed
 
-<!--
-**Adelmostafa2008/Adelmostafa2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full Stack .NET & React Developer**  
+💡 Passionate about building scalable, high-quality web applications using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Skilled in **ASP.NET Web API**, **React.js**, **Tailwind CSS**, and **Entity Framework Core**  
+- 🔧 Strong understanding of **OOP**, **REST APIs**, and **SOLID principles**  
+- ⚡ Currently learning **Flutter** and **Dart** to expand my cross-platform skills  
+- 🧠 Fast learner and problem solver with deep passion for coding and innovation  
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** React.js, Tailwind CSS, JavaScript  
+**Backend:** ASP.NET Web API, Entity Framework Core  
+**Database:** MySQL  
+**Tools:** Git, GitHub, Postman, Visual Studio, VS Code  
+
+---
+
+## 📂 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [Questify](https://github.com/Adelmostafa2008/Questify.git) | Platform helping users sharpen skills in areas like software development, design, and project management | .NET Web API, React.js |
+| [Cinema Management System](https://github.com/senior-3/Adel-Mostafa-Cinema.git) | System for managing cinema operations (movies, authors, customers) following SOLID and DRY principles | .NET Web API |
+| [Car Rental Management System](https://github.com/Adelmostafa2008/CarRentalMS.git) | Handles car rentals, customers, and maintenance records with clear model relations | .NET Web API |
+
+---
+
+## 📫 Contact Me
+📍 Giza, Egypt  
+✉️ **adel.0523035@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/adel-moatafa-saber-mohamed-7a2705332/)

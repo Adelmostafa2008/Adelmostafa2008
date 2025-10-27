@@ -27,6 +27,8 @@
 | [Questify](https://github.com/Adelmostafa2008/Questify.git) | Platform helping users sharpen skills in areas like software development, design, and project management | .NET Web API, React.js |
 | [Cinema Management System](https://github.com/senior-3/Adel-Mostafa-Cinema.git) | System for managing cinema operations (movies, authors, customers) following SOLID and DRY principles | .NET Web API |
 | [Car Rental Management System](https://github.com/Adelmostafa2008/CarRentalMS.git) | Handles car rentals, customers, and maintenance records with clear model relations | .NET Web API |
+| [Company Management System](https://github.com/Adelmostafa2008/Adel_Mostafa_S3_Company_Management_System.git) | Manages company operations like employees, departments, and projects with full SOLID and DRY implementation | .NET Web API |
+
 
 ---
 
